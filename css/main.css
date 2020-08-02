@@ -1,0 +1,22 @@
+body {
+    background-color: #f2f4f5!important;
+}
+
+.img-round {
+    width:85%;
+    height:auto;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul.social-links {
+    list-style-type: none;
+}
+
+.social {
+    width: 50%;
+    height: auto;
+}
+
+
